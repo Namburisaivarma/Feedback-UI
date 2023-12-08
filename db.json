@@ -6,19 +6,14 @@
       "text": "This is feedback item 1 coming from the backend"
     },
     {
-      "id": 2,
+      "text": "This is a feedback item coming from the backend",
       "rating": 8,
-      "text": "This is feedback item 2 coming from the backend"
+      "id": 2
     },
     {
-      "text": "Updated all packages to latest",
+      "text": "Welcome to the json data.",
       "rating": 6,
-      "id": 4
-    },
-    {
-      "text": "This is a test",
-      "rating": 10,
-      "id": 5
+      "id": 3
     }
   ]
 }
